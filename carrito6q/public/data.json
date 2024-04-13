@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Minecraft Guide to Exploration",
+        "author": "Mojang",
+        "price": 350,
+        "img":"https://m.media-amazon.com/images/I/71WfyWRtvBL._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+        
+    },
+    {
+        "id": 2,
+        "name": "Minecraft Guide to Redstone",
+        "author": "Mojang",
+        "price": 250,
+        "img":"https://cdn.dc5.ro/img-prod/2324297-0.jpeg",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "Minecraft Guide to Creative",
+        "author": "Mojang",
+        "price": 200,
+        "img":"https://m.media-amazon.com/images/I/815-3ILwk3L._AC_UF1000,1000_QL80_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "Minecraft Guide to Nether & the End",
+        "author": "Mojang",
+        "price": 350,
+        "img":"https://m.media-amazon.com/images/I/51Tvev4vPNL.jpg",
+        "quanty": 1
+    }
+       
+]
